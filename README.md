@@ -40,6 +40,7 @@ To create the required database for the project, please follow these steps:
 The project utilizes the following technologies:
 
 - **Database**: MS SQL Server
+- **Framework**: ASP.NET Core
 - **Authorization**: JWT Token
 - **ORM**: Entity Framework (EF) Repository and Unit of Work patterns
 - **API Documentation**: Postman
