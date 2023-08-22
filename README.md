@@ -1,6 +1,6 @@
 # .Net Bootcamp Final Assignment - Web API
 
-This project has been developed as part of the final assignment for the .Net Bootcamp. The platform allows the sale of digital products and product licenses through various channels including mobile and web applications. The API design offers endpoints for user registration, authentication, product management, coupon handling, order management and more. For detailed API documentation, please click [here](https://documenter.getpostman.com/view/26555042/2s93z6ejJy#d3a29b10-faf6-49d4-a60e-e2fb5cca0ea8).
+This project has been developed as part of the final assignment for the .Net Bootcamp. The platform allows the sale of digital products or product licenses through various channels including mobile and web applications. The API design offers endpoints for user registration, authentication, product management, coupon handling, order management and more. For detailed API documentation, please click [here](https://documenter.getpostman.com/view/26555042/2s93z6ejJy#d3a29b10-faf6-49d4-a60e-e2fb5cca0ea8).
 ## Contents
 
 - [Database Setup](#database-setup)
